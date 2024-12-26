@@ -82,6 +82,10 @@ nav ul li a:hover{
     width: 100px;
     margin: 10px;
   }
+  .sidebar{
+    width: 100%;
+    justify-content: center;
+  }
   .sidebar div{
     padding: 5px;
   }
