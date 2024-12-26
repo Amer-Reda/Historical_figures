@@ -13,16 +13,16 @@
   --Muted_Gray: #666666;
   --Dark_Red: #8B0000;
 }
-#salahElden{
+#The_person{
   background-color: var(--Beige);
   padding: 20px 200px;
   text-align: center;
 }
-#salahElden h2{
+#The_person h2{
   color: var(--Dark_Red);
   font-size: 30px;
 }
-#salahElden p{
+#The_person p{
   color: var(--Dark_Gray);
   font-size: 22px;
 }
