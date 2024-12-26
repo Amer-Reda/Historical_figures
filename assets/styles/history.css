@@ -26,3 +26,8 @@
   color: var(--Dark_Gray);
   font-size: 22px;
 }
+@media (max-width: 601px){
+  #The_person {
+    padding: 10px 10px;
+  } 
+}
