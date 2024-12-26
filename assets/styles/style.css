@@ -43,3 +43,13 @@ nav ul li a{
 nav ul li a:hover{
   color: #B87333;
 }
+#salah{
+  justify-content: space-around;
+}
+#salah h2{
+  font-size: 30px;
+}
+#salah img{
+  width:200px;
+  border-radius: 20px;
+}
