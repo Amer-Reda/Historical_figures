@@ -71,3 +71,29 @@ nav ul li a:hover{
   margin: 40px 25px;
   text-align: start;
 }
+@media (max-width: 601px) { 
+  body{
+    overflow: hidden;
+  }
+  nav ul li a{
+    display: none;
+  }
+  nav h2{
+    padding-right: 35%;
+  }
+  #salah img{
+    width: 100px;
+    margin: 10px;
+  }
+  .sidebar div{
+    padding: 5px;
+  }
+  nav{
+    margin: 0;
+    padding: 0;
+  }
+  #content{
+    flex-wrap: wrap;
+  }
+
+}
